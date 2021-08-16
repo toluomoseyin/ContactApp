@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPpmEoADR1JqOhUyeKoj/ASRO4R092vCjhYptkKutdhB3T6f+GKDaLX1/QCyjINqBRxvZGS64tJU4Jj3Vu0ZmA==",
+  "dgSpecHash": "e70NuVxUlTYHeAyevW44pEpWmB5oDBoa5ks9rv2eW0or3j9GmpIhJDiZrO5ysSA5NHTmek7mFq4VJRKyzgTxzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\ContactApp\\ContactApp\\ContactBookApp\\ContactBookApp\\ContactBookApp.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\new\\Apps\\ContactApp\\ContactApp\\ContactBookApp\\ContactBookApp\\ContactBookApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\cloudinarydotnet\\1.15.1\\cloudinarydotnet.1.15.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -44,6 +44,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
