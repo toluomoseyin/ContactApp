@@ -51,7 +51,7 @@ namespace ContactBookApp.Data
                 {
                     Email = "tolu@gmail.com",
                     UserName = "tolu@gmail.com",
-                                           
+                                                                   
                     
                 };
                 IdentityResult result = userManager.CreateAsync(adminUser, "Tolu123@").Result;
